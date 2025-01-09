@@ -8,3 +8,4 @@ print(max_number)
 
 average = total / len(numbers)
 print(round(average, 2))
+''
